@@ -12,11 +12,11 @@ The following YouTube video presents the project and includes a demo:
 
 ## System setup
 
-<img src="images/full_system_setup.png" width="700" />
+<img src="images/full_system_setup.png" width="800" />
 
 ## Graphical User Interface
 
-<img src="images/gui.png" width="700" />
+<img src="images/gui.png" width="800" />
 
 ## PCB Images
 
