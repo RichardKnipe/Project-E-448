@@ -1,5 +1,8 @@
 # Project (E) 448 - 2024
-Final-year project for my BEng degree in Electrical and Electronics Engineering, entitled "Test Station Upgrade for Radiation Tests on Microcontroller Boards"
+
+## Test Station Upgrade for Radiation Tests on Microcontroller Boards
+
+Final-year project for my BEng degree in Electrical and Electronics Engineering, entitled ""
 
 The following YouTube video presents the project and includes a demo:
 
