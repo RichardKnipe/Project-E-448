@@ -14,7 +14,7 @@ The following YouTube video presents the project and includes a demo:
 
 | First Header  | Second Header |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| ![](images/pcb_top.png)  | ![](images/pcb_bottom.png)  |
 | Content Cell  | Content Cell  |
 
 The test station PCB:
