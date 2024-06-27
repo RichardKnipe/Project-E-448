@@ -27,11 +27,16 @@ The test station main board PCB:
 <img src="images/pcb_top.png" width="500" />
 <img src="images/pcb_modification.jpeg" width="500" />
 
-The test station module PCBs:
+The test station module PCB:
 
-<img src="images/pcb_top.png" width="500" />
-<img src="images/pcb_modification.jpeg" width="500" />
+<img src="images/module_built_top_with_accessories.jpeg" width="300" />
+<img src="images/module_built_bottom_with_accessories.jpeg" width="300" />
 
 The assembled test station:
 
-<img src="images/.png" width="500" />
+<img src="images/test_station_assembled.jpeg" width="500" />
+
+Test subject connection PCB:
+
+<img src="images/connection_pcb_unconnected_top.jpeg" width="500" />
+<img src="images/connection_pcb_connected_bottom.jpeg" width="500" />
