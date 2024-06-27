@@ -16,7 +16,7 @@ The following YouTube video presents the project and includes a demo:
 
 ## Graphical User Interface
 
-<img src="images/gui.png" width="500" />
+<img src="images/gui.png" width="700" />
 
 ## PCB Images
 
