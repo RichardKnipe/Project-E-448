@@ -22,7 +22,16 @@ The following YouTube video presents the project and includes a demo:
 
 ## PCB Images
 
-The test station PCB:
+The test station main board PCB:
 
 <img src="images/pcb_top.png" width="500" />
 <img src="images/pcb_modification.jpeg" width="500" />
+
+The test station module PCBs:
+
+<img src="images/pcb_top.png" width="500" />
+<img src="images/pcb_modification.jpeg" width="500" />
+
+The assembled test station:
+
+<img src="images/.png" width="500" />
