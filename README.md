@@ -18,6 +18,8 @@ The following YouTube video presents the project and includes a demo:
 
 The test station PCB:
 
+<img src="images/pcb_bottom.png" width="400" />
+
 ![](images/pcb_top.png)
 ![](images/pcb_modification.jpeg)
 ![](images/pcb_bottom.png)
