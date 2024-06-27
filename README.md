@@ -29,8 +29,8 @@ The test station main board PCB:
 
 The test station module PCB:
 
-<img src="images/module_built_top_with_accessories.jpeg" width="300" />
-<img src="images/module_built_bottom_with_accessories.jpeg" width="300" />
+<img src="images/module_built_top_with_accessories.jpeg" width="500" />
+<img src="images/module_built_bottom_with_accessories.jpeg" width="500" />
 
 The assembled test station:
 
