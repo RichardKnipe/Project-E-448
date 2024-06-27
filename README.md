@@ -19,4 +19,5 @@ The following YouTube video presents the project and includes a demo:
 The test station PCB:
 
 ![](images/pcb_top.png)
+![](images/pcb_modification.jpeg)
 ![](images/pcb_bottom.png)
