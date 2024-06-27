@@ -12,7 +12,6 @@ The following YouTube video presents the project and includes a demo:
 
 ## PCB Images
 
-| First Header  | Second Header |
 | ------------- | ------------- |
 | ![](images/pcb_top.png)  | ![](images/pcb_bottom.png)  |
 | Content Cell  | Content Cell  |
