@@ -36,7 +36,7 @@ The test station module PCB:
 <img src="images/module_built_top_with_accessories.jpeg" width="500" />
 <img src="images/module_built_bottom_with_accessories.jpeg" width="500" />
 
-Test subject connection PCB:
+The test subject connection PCB:
 
 <img src="images/connection_pcb_unconnected_top.jpeg" width="500" />
 <img src="images/connection_pcb_connected_bottom.jpeg" width="500" />
