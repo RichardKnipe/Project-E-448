@@ -10,12 +10,13 @@ The following YouTube video presents the project and includes a demo:
 
 [![Video Title](https://img.youtube.com/vi/Subu9XpRyAE/0.jpg)](https://www.youtube.com/watch?v=Subu9XpRyAE)
 
-## PCB Images
+## System setup
 
-| ------------- | ------------- |
-| ![](images/pcb_top.png)  | ![](images/pcb_bottom.png)  |
-| Content Cell  | Content Cell  |
+
+
+## PCB Images
 
 The test station PCB:
 
-| ![](images/pcb_top.png) | ![](images/pcb_bottom.png) |
+![](images/pcb_top.png)
+![](images/pcb_bottom.png)
