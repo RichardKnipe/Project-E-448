@@ -12,15 +12,15 @@ The following YouTube video presents the project and includes a demo:
 
 ## System setup
 
+<img src="images/system_setup.png" width="500" />
 
+## Graphical User Interface
+
+<img src="images/gui.png" width="500" />
 
 ## PCB Images
 
 The test station PCB:
 
-<img src="images/pcb_top.png" width="400" />
-<img src="images/pcb_modification.jpeg" width="400" />
-
-![](images/pcb_top.png)
-![](images/pcb_modification.jpeg)
-![](images/pcb_bottom.png)
+<img src="images/pcb_top.png" width="500" />
+<img src="images/pcb_modification.jpeg" width="500" />
