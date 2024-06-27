@@ -12,7 +12,7 @@ The following YouTube video presents the project and includes a demo:
 
 ## System setup
 
-<img src="images/full_system_test_setup.pdf" width="500" />
+<img src="images/full_system_setup.png" width="700" />
 
 ## Graphical User Interface
 
